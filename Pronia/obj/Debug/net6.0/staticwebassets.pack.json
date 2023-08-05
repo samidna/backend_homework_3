@@ -7653,6 +7653,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg"
     },
     {
+      "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\c326bb00-2f0c-4e66-9521-b30b9b71d17a.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\c326bb00-2f0c-4e66-9521-b30b9b71d17a.jpg"
+    },
+    {
       "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\contact\\1-1-370x500.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\contact\\1-1-370x500.jpg"
     },
@@ -8075,6 +8079,42 @@
     {
       "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\service.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\imgs\\28df1cd6-948e-43d6-ab75-0ced789f7703.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\28df1cd6-948e-43d6-ab75-0ced789f7703.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\imgs\\products\\39f8e533-203d-4317-b322-156f74c64e91.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\products\\39f8e533-203d-4317-b322-156f74c64e91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\imgs\\products\\3f4166c4-7bcc-43f7-ba16-368468c8af46.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\products\\3f4166c4-7bcc-43f7-ba16-368468c8af46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\imgs\\products\\7889a7d3-1938-4b20-a580-345c1f66dd83.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\products\\7889a7d3-1938-4b20-a580-345c1f66dd83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\imgs\\products\\78e583c2-e996-4333-814c-19335077d979.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\products\\78e583c2-e996-4333-814c-19335077d979.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\imgs\\products\\b367dfe9-d610-4dec-8f1f-4ea905461437.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\products\\b367dfe9-d610-4dec-8f1f-4ea905461437.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\imgs\\products\\cc5e09aa-111a-4284-b579-65252c019045.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\products\\cc5e09aa-111a-4284-b579-65252c019045.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\imgs\\products\\d786118d-6eb2-454b-a89b-ce9a60ad8723.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\products\\d786118d-6eb2-454b-a89b-ce9a60ad8723.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\imgs\\products\\f588c029-0109-4c25-91b5-4d1a23dadbc8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\products\\f588c029-0109-4c25-91b5-4d1a23dadbc8.jpg"
     },
     {
       "Id": "C:\\Users\\user\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\js\\main.js",

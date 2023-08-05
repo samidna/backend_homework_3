@@ -18,11 +18,12 @@ namespace Pronia.Services.Implements
             _env = env;
             _fileService = fileService;
         }
+
         public async Task Create(CreateSliderVM sliderVM)
         {
             await _context.Sliders.AddAsync(new Slider
             {
-                ImageUrl = await _fileService.UploadAsync(sliderVM.ImageFile,Path.Combine("assets","images"),"image",2),
+                ImageUrl = await _fileService.UploadAsync(sliderVM.ImageFile,"image",Path.Combine("assets","images"),10),
                 Title = sliderVM.Title,
                 ButtonText = sliderVM.ButtonText,
                 Offer = sliderVM.Offer,

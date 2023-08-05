@@ -18,9 +18,9 @@ namespace Pronia.ExtentionServices.Implements
             => Guid.NewGuid() + Path.GetExtension(file.FileName);
         private void _checkDirectory(string path)
         {
-            if (Directory.Exists(path))
+            if (!Directory.Exists(Path.Combine(_env.WebRootPath,path)))
             {
-                Directory.CreateDirectory(path);
+                Directory.CreateDirectory(Path.Combine(_env.WebRootPath, path));
             }
         }
         public void Delete(string? path)
@@ -38,7 +38,7 @@ namespace Pronia.ExtentionServices.Implements
             await file.CopyToAsync(fs);
         }
 
-        public async Task<string> UploadAsync(IFormFile file, string contentType, string path, int mb)
+        public async Task<string> UploadAsync(IFormFile file,string path, string contentType = "image", int mb=2)
         {
             if (!file.IsSizeValid(mb)) throw new Exception();
             if (!file.IsTypeValid(contentType)) throw new Exception();

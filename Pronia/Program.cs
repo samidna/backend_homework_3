@@ -11,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<ISliderService, SliderService>();
 builder.Services.AddScoped<IFileService, FileService>();
+builder.Services.AddScoped<IProductService,ProductService>();
 builder.Services.AddDbContext<ProniaDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration["ConnectionStrings:MSSQL"]);
